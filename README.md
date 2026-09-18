@@ -10,3 +10,5 @@ TODO:
 -optimize any redundancies/inefficiencies
 
 -look into synthesis and optimizing synthesized designs
+
+-learn more verilog and work towards iterative ALU designs and other cpu components.
